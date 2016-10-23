@@ -8,7 +8,7 @@ $ git clone git@github.com:lotz84/haskell-life-game.git && cd haskell-life-game
 $ stack build && stack exec life-game
 ```
 
-![](demo.png)
+![](demo.gif)
 
 Smooth Life
 -----------
